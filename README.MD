@@ -1,5 +1,12 @@
-## Churn Modelling Deep Learning Project
+## Customer Churn Prediction using Deep Learning
 
-tracked the layers with tensorboard
+Built a deep learning model to predict whether a customer will exit the bank, based on features like age, credit score, gender, salary, balance, and account activity.
 
-built and deployed in stream lit app
+Developed an Artificial Neural Network (ANN) for binary classification using TensorFlow and Keras.
+
+Utilized TensorBoard for real-time visualization of training metrics including loss and accuracy.
+
+Deployed the trained model through an interactive Streamlit web application for live predictions.
+
+
+
